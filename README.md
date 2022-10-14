@@ -5,7 +5,7 @@
 ### Hi, this is Devin
 
 - probably taking care of my :potted_plant:
-- passionate about access to technical education
+- passionate about accessible technical education
 - or [drawing](https://www.instagram.com/devin_lizard/) with a fresh :pencil2:
 
 <!--<a href="">
