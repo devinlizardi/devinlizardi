@@ -2,7 +2,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=devinlizardi&theme=solarized-light&layout=compact" alt="devinlizardi stats card" />
 </a>
 
-### Hi, this is Devin
+### hey this is Dev
 
 - probably taking care of my :potted_plant:
 - passionate about accessible technical education
